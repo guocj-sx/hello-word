@@ -1,5 +1,9 @@
 # hello-word
 only a study demo
 public static void main(String[] args){
-	System.out.println("hello master") ;
+<<<<<<< HEAD
+	System.out.println("hello dev" ;
+=======
+	System.out.println("hello dev") ;
+>>>>>>> dev
 }
